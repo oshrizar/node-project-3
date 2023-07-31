@@ -1,0 +1,59 @@
+[
+  {
+    "title": "card40",
+    "subTitle": "what i want",
+   "description": "Create a first card",
+   "phone": "050000000",
+    "email": "noga@gmail.com",
+    "web": "https://pixabay.com/",
+    "image": {
+      "url": "https://media.istockphoto.com/id/1442179368/photo/maldives-island.jpg?s=2048x2048&w=is&k=20&c=wi39rl8i15jpaRuEQSceOYNlHYVTsa901ld8Wtq0q-0=",
+      "alt": "beach"
+    },
+    "address": {
+      "country": "Israel",
+      "city": "nof hagalil",
+      "street": "barak",
+      "houseNumber": 67,
+       "zip": 0
+    }
+  },
+  {
+    "title": "card50",
+    "subTitle": "what i hate",
+    "description": "dont look",
+    "phone": "050000000",
+    "email": "noam@gmail.com",
+    "web": "https://pixabay.com/",
+    "image": {
+      "url": "https://cdn.pixabay.com/photo/2023/07/20/14/34/grasshopper-8139495_1280.jpg",
+      "alt": "bug"
+    },
+    "address": {
+      "country": "Israel",
+      "city": "afula",
+      "street": "north",
+      "houseNumber": 127,
+       "zip": 0
+    }
+  },
+  {
+    "title": "card60",
+    "subTitle": "why",
+    "description": "mountin",
+    "phone": "050000000",
+    "email": "oshri@gmail.com",
+    "web": "https://pixabay.com/",
+    "image": {
+      "url": "https://cdn.pixabay.com/photo/2023/04/12/21/52/mountain-7921253_1280.png",
+      "alt": "climb"
+    },
+    "address": {
+      "country": "Israel",
+      "city": "motzkin",
+      "street": "gosen",
+      "houseNumber": 53,
+       "zip": 0
+    }
+  }
+]
